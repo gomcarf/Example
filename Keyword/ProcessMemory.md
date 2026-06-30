@@ -1,5 +1,7 @@
 # 프로세스 메모리 구역
+<img src="../Images/ProcessMemory.png" width=400 height=250></img>
 - 정의
+    <!-- - ![Process Memory](../Images/ProcessMemory.png)-->
     - RAM에 프로세스를 실행하기 위해 생성되는 메모리 구역
     - 총 4가지의 메모리 구역을 가짐
 - 메모리 구역
